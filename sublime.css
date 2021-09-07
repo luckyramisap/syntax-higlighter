@@ -1,0 +1,88 @@
+<style type='text/css'>
+/* Syntax Highlighter Monokai Sublime */
+.post-body pre code, .post-body code{font-family:Consolas,Monaco,&#39;Andale Mono&#39;,monospace;font-size:100%;font-weight:normal;}
+.post-body pre{padding:7px;border-radius:4px;background-color:#23241f;word-spacing:normal;word-break:normal;line-height:1.4em!important;}
+  pre,pre code{white-space: pre-wrap;}
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding:0 0.5em 0.5em;
+margin:0;
+  background: #23241f;
+max-height:360px;
+}
+
+.hljs,
+.hljs-tag,
+.hljs-subst {
+  color: #f8f8f2;
+}
+
+.hljs-strong,
+.hljs-emphasis {
+  color: #a8a8a2;
+}
+
+.hljs-bullet,
+.hljs-quote,
+.hljs-number,
+.hljs-regexp,
+.hljs-literal,
+.hljs-link {
+  color: #ae81ff;
+}
+
+.hljs-code,
+.hljs-title,
+.hljs-section,
+.hljs-selector-class {
+  color: #a6e22e;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-name,
+.hljs-attr {
+  color: #f92672;
+}
+
+.hljs-symbol,
+.hljs-attribute {
+  color: #66d9ef;
+}
+
+.hljs-params,
+.hljs-class .hljs-title {
+  color: #f8f8f2;
+}
+
+.hljs-string,
+.hljs-type,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-selector-id,
+.hljs-selector-attr,
+.hljs-selector-pseudo,
+.hljs-addition,
+.hljs-variable,
+.hljs-template-variable {
+  color: #e6db74;
+}
+
+.hljs-comment,
+.hljs-deletion,
+.hljs-meta {
+  color: #75715e;
+}
+.hljs::-webkit-scrollbar{width:8px;height:25px;}
+.hljs::-webkit-scrollbar-thumb
+{border-radius:2px; background:rgba(255,255,255,.2)}
+</style>
